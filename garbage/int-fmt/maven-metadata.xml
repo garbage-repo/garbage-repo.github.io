@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>garbage</groupId>
+  <artifactId>int-fmt</artifactId>
+  <versioning>
+    <latest>0.1.0+garbage-int-fmt</latest>
+    <release>0.1.0+garbage-int-fmt</release>
+    <versions>
+      <version>0.1.0+garbage-int-fmt</version>
+    </versions>
+    <lastUpdated>20230903002232</lastUpdated>
+  </versioning>
+</metadata>
