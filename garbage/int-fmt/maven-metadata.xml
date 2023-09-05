@@ -3,14 +3,15 @@
   <groupId>garbage</groupId>
   <artifactId>int-fmt</artifactId>
   <versioning>
-    <latest>0.2.0+garbage-int-fmt</latest>
-    <release>0.2.0+garbage-int-fmt</release>
+    <latest>0.2.1+garbage-int-fmt</latest>
+    <release>0.2.1+garbage-int-fmt</release>
     <versions>
       <version>0.1.0+garbage-int-fmt</version>
       <version>0.1.1+garbage-int-fmt</version>
       <version>0.1.2+garbage-int-fmt</version>
       <version>0.2.0+garbage-int-fmt</version>
+      <version>0.2.1+garbage-int-fmt</version>
     </versions>
-    <lastUpdated>20230905121612</lastUpdated>
+    <lastUpdated>20230905131754</lastUpdated>
   </versioning>
 </metadata>
